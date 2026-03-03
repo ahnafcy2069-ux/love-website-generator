@@ -28,7 +28,7 @@ const CONFIG = {
     // Character descriptions
     characters: {
         partner: "My pretty baby girl 🤍🙇🏻‍♂️",
-        you: "I'm forever yours"
+        you: "I'm forever yours 🙇🏻‍♂️"
     },
     
     // Special messages for different kiss counts
