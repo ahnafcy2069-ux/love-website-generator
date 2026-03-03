@@ -10,7 +10,7 @@ const CONFIG = {
     
     // Custom messages
     messages: {
-        subtitle: "It's special our 100th anniversary",
+        subtitle: "it's special our 100th anniversary",
         loveNote: "you are the sunshine in my darkest days and the stars in my night sky. Every moment with you feels like magic, and I fall in love with you more each day. You're not just my girlfriend, you're my best friend, my wifeyy, and my everything. I love you so much 🖤🙇🏻‍♂️",
         specialMessage: "You came into my life like a beautiful surprise, and now I can't imagine my world without you. You came in my life as alight and you removd every darkness I had, and your love is the greatest gift I've ever received.",
         specialMessage2: "I'm so happy that I want to say that thanks for
