@@ -27,7 +27,7 @@ const CONFIG = {
     
     // Character descriptions
     characters: {
-        partner: "My pretty baby girl",
+        partner: "My pretty baby girl 🤍🙇🏻‍♂️",
         you: "I'm forever yours"
     },
     
