@@ -6,7 +6,7 @@ const CONFIG = {
     partnerName: "AFI my pretty little princess 🤍🙇🏻‍♂️",
     
     // Your name (optional, for signature)
-    yourName: "DADDY AHNAF 🖤🫠",
+    yourName: "DADDY AHNAF 🖤",
     
     // Custom messages
     messages: {
